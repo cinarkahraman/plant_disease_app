@@ -1,0 +1,3 @@
+0 Pasli
+1 Saglikli
+2 Tozlu
