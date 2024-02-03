@@ -1,4 +1,4 @@
-# bitki_hastaliklari
+# plant disease classification app
 
 A new Flutter project.
 
