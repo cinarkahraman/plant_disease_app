@@ -1,16 +1,18 @@
-# plant disease classification app
+## Plant Disease App 🌱
+This Flutter application identifies and classifies diseases in potato leaves. By leveraging the TensorFlow Lite (TFLite) library, it provides a user-friendly interface for farmers and agricultural enthusiasts to assess the health of their potato plants.
+## Features ✨
+  * Disease Detection: Accurately identifies various diseases affecting potato leaves.
+  * User-Friendly Interface: Simple and intuitive design for easy navigation.
+  * Real-Time Classification: Utilizes machine learning to provide instant feedback.
+  * Offline Functionality: Works without the need for an internet connection after initial setup.
+## Usage 📋
+1. Launch the app on your device or emulator.
+2. Upload an image of a potato leaf for analysis.
+3. The app will process the image and classify the disease, providing information about potential treatments.
 
-A new Flutter project.
+## Screenshots 🖼️
 
-## Getting Started
+  ### ![App Home Screen and Predict Result](https://github.com/cinarkahraman/plant_disease_app/blob/master/predictResultScreen.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact 📧
+For questions or suggestions, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cinarkahraman/).
